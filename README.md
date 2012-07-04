@@ -4,7 +4,7 @@ Common JavaScript libraries for the Rails asset pipeline.
 
 ## Installation
 
-Add this line to your Gemfile:
+Add this line to the assets group in your Gemfile:
 
 ```ruby
 gem 'js-rails'
