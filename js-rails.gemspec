@@ -9,7 +9,9 @@ Gem::Specification.new do |s|
   s.email = ['richard.hubers@gmail.com']
   s.date = Time.now.strftime('%Y-%m-%d')
   s.require_paths = ['lib']
+  s.add_dependency('railties', '~> 3.1')
   s.files = Dir["{lib,vendor}/**/*"] + ["README.md"]
   s.homepage = 'http://github.com/rh/js-rails'
   s.license = 'MIT'
+  s.has_rdoc = false
 end
