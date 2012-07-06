@@ -25,6 +25,7 @@ Add the necessary libraries to `app/assets/javascripts/application.js`:
 * Zepto 1.0rc1 (zepto, zepto.min)
 * Underscore.js 1.3.3 (underscore, underscore.min)
 * Handlebars 1.0.0.beta.6 (handlebars)
+* Backbone 0.9.2 (backbone, backbone.min)
 
 ## Acknowledgements
 
