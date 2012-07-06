@@ -26,6 +26,7 @@ Add the necessary libraries to `app/assets/javascripts/application.js`:
 * Underscore.js 1.3.3 (underscore, underscore.min)
 * Handlebars 1.0.0.beta.6 (handlebars)
 * Backbone 0.9.2 (backbone, backbone.min)
+* Ember 0.9.8.1 (ember, ember.min)
 
 ## Acknowledgements
 
