@@ -27,7 +27,7 @@ Add the necessary libraries to `app/assets/javascripts/application.js`:
 * Handlebars 1.0.0.beta.6 (handlebars)
 * Backbone 0.9.2 (backbone, backbone.min)
 * Ember 0.9.8.1 (ember, ember.min)
-* Angular 1.0.1 (angular, angular-bootstrap, angular-bootstrap-prettify, angular-cookies, angular-loader, angular-mocks, angular-resource, angular-sanitize, angular-scenario)
+* Angular 1.0.1 (angular)
 
 ## Acknowledgements
 
