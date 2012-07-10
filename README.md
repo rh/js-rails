@@ -29,6 +29,7 @@ Add the necessary libraries to `app/assets/javascripts/application.js`:
 * Ember 0.9.8.1 (ember, ember.min)
 * Angular 1.0.1 (angular)
 * Moment 1.6.2 (moment, moment.min)
+* D3 2.9.6 (d3.v2, d3.v2.min)
 
 ## Acknowledgements
 
