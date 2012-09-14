@@ -24,7 +24,7 @@ Add the necessary libraries to `app/assets/javascripts/application.js`:
 * jQuery 1.8.0 (jquery, jquery.min, jquery_ujs)
 * Zepto 1.0rc1 (zepto, zepto.min)
 * Underscore.js 1.3.3 (underscore, underscore.min)
-* Handlebars 1.0.0.beta.6 (handlebars)
+* Handlebars 1.0.0.beta.6 (handlebars, handlebars.runtime)
 * Backbone 0.9.2 (backbone, backbone.min)
 * Ember 0.9.8.1 (ember, ember.min)
 * Angular 1.0.1 (angular)
