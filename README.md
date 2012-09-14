@@ -21,7 +21,7 @@ Add the necessary libraries to `app/assets/javascripts/application.js`:
 
 ## What's included?
 
-* jQuery 1.8.0 (jquery, jquery.min, jquery_ujs)
+* jQuery 1.8.1 (jquery, jquery.min, jquery_ujs)
 * Zepto 1.0rc1 (zepto, zepto.min)
 * Underscore.js 1.3.3 (underscore, underscore.min)
 * Handlebars 1.0.0.beta.6 (handlebars, handlebars.runtime)
